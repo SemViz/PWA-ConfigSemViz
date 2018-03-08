@@ -1,3 +1,11 @@
 {
-  "injection": {}
+  "injection": [{
+      "selector": "#div1",
+      "html": "texte div1"
+    },
+    {
+      "selector": "#div2",
+      "html": "texte div2"
+    }
+  ]
 }
