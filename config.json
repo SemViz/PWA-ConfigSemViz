@@ -1,7 +1,9 @@
 {
   "injection": [{
       "selector": "#div1",
-      "html": "texte div1"
+      "html": "texte div1",
+      "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/testComponentAll.html",
+      "componentTag":"test-component"
     },
     {
       "selector": "#div2",
