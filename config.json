@@ -7,7 +7,9 @@
     },
     {
       "selector": "#div2",
-      "html": "texte div2"
+      "html": "texte div2",
+      "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/testComponentAll.html",
+      "componentTag":"test-component"
     }
   ]
 }
