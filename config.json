@@ -1,13 +1,15 @@
 {
+  "template":{
+    "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz/master/src/template.html",
+    "componentTag":"semviz-base-template"
+  },
   "injection": [{
       "selector": "#div1",
-      "html": "texte div1",
       "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/testComponentAll.html",
       "componentTag":"test-component"
     },
     {
       "selector": "#div2",
-      "html": "texte div2",
       "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/testComponentAll.html",
       "componentTag":"test-component"
     }
