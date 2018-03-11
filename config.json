@@ -1,6 +1,6 @@
 {
   "template": {
-    "componentUrl": "https://raw.githubusercontent.com/assemblee-virtuelle/SemViz/master/src/template.html",
+    "componentUrl": "https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-Templates/master/src/template.html",
     "componentTag": "semviz-base-template"
   },
   "injection": [{
