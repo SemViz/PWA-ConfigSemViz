@@ -5,12 +5,12 @@
   },
   "injection": [{
       "selector": "#div1",
-      "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponentAll.html",
-      "componentTag":"test-component"
+      "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponentContainer.html",
+      "componentTag":"test-component-container"
     },
     {
       "selector": "#div2",
-      "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponentAll.html",
+      "componentUrl":"https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponent.html",
       "componentTag":"test-component"
     }
   ]
