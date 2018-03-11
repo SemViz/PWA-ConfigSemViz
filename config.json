@@ -4,7 +4,7 @@
     "componentTag": "semviz-base-template"
   },
   "injection": [{
-      "selector": "#div2",
+      "selector": "#div1",
       "componentUrl": "https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponent.html",
       "componentTag": "test-component"
     }, {
