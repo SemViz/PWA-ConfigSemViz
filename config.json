@@ -1,15 +1,15 @@
 {
   "template": {
-    "componentUrl": "https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-Templates/master/src/template.html",
+    "componentUrl": "https://raw.githubusercontent.com/SemViz/SemViz-Templates/master/src/template.html",
     "componentTag": "semviz-base-template"
   },
   "injection": [{
       "selector": "#div1",
-      "componentUrl": "https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponent.html",
+      "componentUrl": "https://raw.githubusercontent.com/SemViz/SemViz-TestComponent/master/src/testComponent.html",
       "componentTag": "test-component"
     }, {
       "selector": "#div2",
-      "componentUrl": "https://raw.githubusercontent.com/assemblee-virtuelle/SemViz-TestComponent/master/src/testComponentContainer.html",
+      "componentUrl": "https://raw.githubusercontent.com/SemViz/SemViz-TestComponent/master/src/testComponentContainer.html",
       "componentTag": "test-component-container"
     }
 
