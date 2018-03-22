@@ -5,11 +5,11 @@
   },
   "injection": [{
       "selector": "#div1",
-      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/public/testComponent.html",
+      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/public/testComponent/index.html",
       "componentTag": "test-component"
     }, {
       "selector": "#div2",
-      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/public/testComponentContainer.html",
+      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/public/testComponentContainer/index.html",
       "componentTag": "test-component-container"
     }
 
