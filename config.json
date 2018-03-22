@@ -1,15 +1,15 @@
 {
   "template": {
-    "componentUrl": "https://rawgit.com/SemViz/SemViz-Templates/master/src/template.html",
+    "componentUrl": "https://rawgit.com/SemViz/SemViz-Templates/master/template.html",
     "componentTag": "semviz-base-template"
   },
   "injection": [{
       "selector": "#div1",
-      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/src/testComponent.html",
+      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/public/testComponent.html",
       "componentTag": "test-component"
     }, {
       "selector": "#div2",
-      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/src/testComponentContainer.html",
+      "componentUrl": "https://rawgit.com/SemViz/SemViz-TestComponent/master/public/testComponentContainer.html",
       "componentTag": "test-component-container"
     }
 
