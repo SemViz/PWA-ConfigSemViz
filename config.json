@@ -1,6 +1,6 @@
 {
   "template": {
-    "componentUrl": "https://rawgit.com/SemViz/SemViz-Templates/master/template.html",
+    "componentUrl": "https://rawgit.com/SemViz/SemViz-Templates/master/src/template.html",
     "componentTag": "semviz-base-template"
   },
   "injection": [{
